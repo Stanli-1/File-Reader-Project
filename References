@@ -1,0 +1,18 @@
+References:
+
+1) Writing files was learned through W3Schools: https://www.w3schools.com/java/java_files_create.asp
+
+2) Dictionary Basics: https://www.javatpoint.com/dictionary-class-in-
+java#:~:text=In%20Java%2C%20Dictionary%20is%20the,just%20like%20the%20Map%20interface.
+
+3) TreeMaps: https://www.baeldung.com/java-treemap
+
+4) Printing TreeMaps: https://www.geeksforgeeks.org/how-to-iterate-over-a-treemap-in-java/
+
+5) Splitting String by punctuation: https://www.daniweb.com/programming/software-development/threads/331201/java-split-text-by-spaces-and-punctuation
+
+6) Java "contains()" for checking integers: https://www.baeldung.com/string-contains-multiple-words
+
+7) Finding File size: https://www.geeksforgeeks.org/file-length-method-in-java-with-examples/
+
+8) Overriding Vs. Appending Files with FileWriter: https://jenkov.com/tutorials/java-io/filewriter.html#overwriting-vs-appending-the-file
